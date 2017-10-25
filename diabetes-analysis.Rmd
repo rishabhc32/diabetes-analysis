@@ -3,10 +3,10 @@ title: "diabetes_analysis"
 author: "Rishabh Chauhan(RC), Rohit, Shradha, Rachit"
 date: "29 September 2017"
 output:
-  pdf_document: default
-  html_document: default
   md_document:
     variant: markdown_github
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
