@@ -10,6 +10,7 @@ __Dataset__ : `diabetes-dataset.csv`
 __Answers__ :
 * __R Markdown__ : `diabetes-analysis.Rmd`
 * __HTML__ : `diabetes-analysis.html`
+* __Markdown__ : *This file*`
 * __PDF__ : `diabetes-analysis.pdf`
 
 ------------------------------------------------------------------------
