@@ -7,10 +7,10 @@ __Dataset desciption__ : `dataset-description.pdf`
 
 __Dataset__ : `diabetes-dataset.csv`
 
-__Answers__
-* R Markdown : diabetes-analysis.Rmd
-* HTML : diabetes-analysis.html
-* PDF : diabetes-analysis.pdf
+__Answers__ :
+* __R Markdown__ : `diabetes-analysis.Rmd`
+* __HTML__ : `diabetes-analysis.html`
+* __PDF__ : `diabetes-analysis.pdf`
 
 ------------------------------------------------------------------------
 
